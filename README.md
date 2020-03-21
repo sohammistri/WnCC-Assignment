@@ -6,3 +6,4 @@ Task to be done: To scrape the web and display the top headlines from the tech s
 I approached it in 2 steps:
 1. First, I used the Beautiful soup Python package for scraping a tech news website and display only the headlines. It is in the web_scraping.py file
 2. Secondly, I used a popular API called newsAPI to print tech news of India from several websites.This is in the newsAPI.py file
+3. Lastly the 2nd approach wasn't right so I changed it in a new file modifiednewsAPI.py where I displayed the headlines of techcrunch.com website. 
